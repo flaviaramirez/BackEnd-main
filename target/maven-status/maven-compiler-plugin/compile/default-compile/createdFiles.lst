@@ -1,0 +1,14 @@
+com\portfolio\mgb\Security\Repository\iRolRepository.class
+com\portfolio\mgb\Repository\REducacion.class
+com\portfolio\mgb\Security\Repository\iUsuarioRepository.class
+com\portfolio\mgb\Security\Service\UsuarioService.class
+com\portfolio\mgb\MgbApplication.class
+com\portfolio\mgb\Service\ImpPersonaService.class
+com\portfolio\mgb\Service\Seducacion.class
+com\portfolio\mgb\Controller\CEducacion.class
+com\portfolio\mgb\Entity\Educacion.class
+com\portfolio\mgb\Security\Service\UserDetailsImpl.class
+com\portfolio\mgb\Security\MainSecurity.class
+com\portfolio\mgb\Dto\dtoEducacion.class
+com\portfolio\mgb\Service\SExperiencia.class
+com\portfolio\mgb\Security\Service\RolService.class
